@@ -1,4 +1,4 @@
-# My-GitHub-Commits
+# My GitHub Commits
 
 I noticed that some of my commits were disappearing from the GitHub contribution graph over time. After trying to fix it and failing many times, I decided to document my commits myself.
 
